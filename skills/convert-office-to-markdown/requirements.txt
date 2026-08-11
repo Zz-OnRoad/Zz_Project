@@ -1,0 +1,3 @@
+docling-slim[convert-core,format-office]==2.116.0
+docling-core==2.88.0
+pypdfium2==5.12.1
