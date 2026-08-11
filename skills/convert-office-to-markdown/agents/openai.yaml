@@ -1,0 +1,4 @@
+interface:
+  display_name: "Office 内容转 Markdown"
+  short_description: "离线批量转换 PPTX 与 DOCX，并合并输出为单一 Markdown"
+  default_prompt: "Use $convert-office-to-markdown to convert all PPTX and DOCX files in input into one Markdown output."
