@@ -1,7 +1,0 @@
-interface:
-  display_name: "Reply Rules"
-  short_description: "Structure complex replies without shrinking deliverables"
-  default_prompt: "Use $reply-rules to organize this complex task's updates and handoff while preserving the full deliverable."
-
-policy:
-  allow_implicit_invocation: true
